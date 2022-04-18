@@ -1,0 +1,1 @@
+<?php header("Location: http://localhost/test-Scandiweb/products/createProduct"); ?>
